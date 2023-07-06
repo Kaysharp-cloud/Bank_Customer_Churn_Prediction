@@ -47,7 +47,7 @@ https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 ## Data Preprocessing:
 - RowNumber, CustomerId and Surname were dropped because they were unique for every customer and don't add value to our target variable.
-- 
+ 
 - Using SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in target variable.
 
 ## Modelling
